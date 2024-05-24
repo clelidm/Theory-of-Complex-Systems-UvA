@@ -1,1 +1,1 @@
-# Theory-of-Complex-Systems-UvA
+# Theory of Complex Systems
