@@ -11,12 +11,42 @@ The course and the assignments will be mainly theoretical (problems with analyti
 ## Books and online resources
 Resources for the course include:
 
- - Book *Statistical Mechanics: Entropy, Order Parameters and Complexity*, J. Sethna (2020), PDF of the book is available on the [author’s personal website](https://sethna.lassp.cornell.edu/menu_teaching).
- - Book *Introduction to the Theory of Complex Systems*, S. Thurner, R. Hanel, and P. Klimek (2018)
- - Book *Complexity and Criticality*, K. Christensen and N. Moloney (2005)
+ - Book *Statistical Mechanics: Entropy, Order Parameters and Complexity*, by J. Sethna (2020), PDF of the book is available on the [author’s personal website](https://sethna.lassp.cornell.edu/menu_teaching).
+ - Book *Introduction to the Theory of Complex Systems*, by S. Thurner, R. Hanel, and P. Klimek (2018)
+ - Book *Complexity and Criticality*, by K. Christensen and N. Moloney (2005)
  - [Website *Complexity Explorables*](https://www.complexity-explorables.org/), which as a large collection of interactive simulations of complex systems.
 
 ## Plan of the course
 
+ - Chapter 0: Introduction
+    - Introduction to Complex Systems
+    - Introduction to Critical Phenomena
+    - Tutorial: Poisson Processes 
 
+ - Chapter 1: From Microscopic to Macroscopic description of a complex system
+    - Description of Complex Systems at Equilibrium
+    - Complex systems out-of-equilibrium and Markov Processes
+    - Tutorial: The Metropolis algorithm: from out-of-equilibrium to equilibrium description.
+
+ - Chapter 2: Examples of Critical Phenomena in Complex Systems at Equilibrium
+    - The Ising Model
+    - Percolation
+
+ - Chapter 3: Mean-field theory
+    - The Mean-field (MF) approximation
+    - Landau Theory
+    - Tutorial: application to the TASEP model
+
+ - Chapter 4: Scale Invariance and Universality
+    - Emergent behaviors in random walks
+    - Introduction to Real-Space Renormalization
+      
+ - Chapter 5: Examples of critical phenomena in Complex systems out-of-equilibrium
+    - Epidemic spreading on complex networks
+    - Voter model and opinion dynamics
+
+ - Chapter 6: Examples of collective behaviors
+    - Vicsek models and flocking behavior
+    - Noisy Kuramoto model
+  
 
