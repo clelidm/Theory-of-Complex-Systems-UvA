@@ -48,5 +48,9 @@ Resources for the course include:
  - Chapter 6: Examples of collective behaviors
     - Vicsek models and flocking behavior
     - Noisy Kuramoto model
-  
+
+ ## Schedule
+
+![Schedule](https://github.com/clelidm/Theory-of-Complex-Systems-UvA/blob/main/Schedule.png)
+
 
