@@ -25,7 +25,7 @@ Resources for the course include:
 
  - Chapter 1: From Microscopic to Macroscopic description of a complex system
     - Description of Complex Systems at Equilibrium
-    - Complex systems out-of-equilibrium and Markov Processes
+    - Description of Complex systems out-of-equilibrium and Markov Processes
     - Tutorial: The Metropolis algorithm: from out-of-equilibrium to equilibrium description.
 
  - Chapter 2: Examples of Critical Phenomena in Complex Systems at Equilibrium
