@@ -11,7 +11,7 @@ The course and the assignments will be mainly theoretical (problems with analyti
 ## Books and online resources
 Resources for the course include:
 
- - Book *Statistical Mechanics: Entropy, Order Parameters and Complexity*, by J. Sethna (2020), PDF of the book is available on the [author’s personal website](https://sethna.lassp.cornell.edu/menu_teaching).
+ - Book [*Statistical Mechanics: Entropy, Order Parameters and Complexity*](https://sethna.lassp.cornell.edu/menu_teaching), by J. Sethna (2020), available on the author’s personal website.
  - Book *Introduction to the Theory of Complex Systems*, by S. Thurner, R. Hanel, and P. Klimek (2018)
  - Book *Complexity and Criticality*, by K. Christensen and N. Moloney (2005)
  - [Website *Complexity Explorables*](https://www.complexity-explorables.org/), which as a large collection of interactive simulations of complex systems.
