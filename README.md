@@ -33,7 +33,7 @@ Resources for the course include:
     - Percolation
 
  - Chapter 3: Mean-field theory
-    - The Mean-field (MF) approximation
+    - The Mean-Field approximation
     - Landau Theory
     - Tutorial: application to the TASEP model
 
