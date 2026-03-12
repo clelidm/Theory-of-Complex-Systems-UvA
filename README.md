@@ -51,6 +51,6 @@ Resources for the course include:
 
  ## Schedule
 
-![Schedule](https://github.com/clelidm/Theory-of-Complex-Systems-UvA/blob/main/Schedule.png)
+![Schedule](https://github.com/clelidm/Theory-of-Complex-Systems-UvA/blob/main/Schedule_2024.png)
 
 
