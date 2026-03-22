@@ -31,6 +31,7 @@ Resources for the course include:
  - Chapter 2: Examples of Critical Phenomena in Complex Systems at Equilibrium
     - The Ising Model
     - Percolation
+    - Homework: Modeling data from complex systems with the Ising model
 
  - Chapter 3: Mean-field theory
     - The Mean-Field approximation
