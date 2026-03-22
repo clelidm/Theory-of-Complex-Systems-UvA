@@ -21,7 +21,7 @@ Resources for the course include:
  - Chapter 0: Introduction
     - Introduction to Complex Systems
     - Introduction to Critical Phenomena
-    - Tutorial: Poisson Processes 
+    - Tutorial: Poisson Processes; Markov processes 
 
  - Chapter 1: From Microscopic to Macroscopic description of a Complex System
     - Description of Complex Systems at Equilibrium
